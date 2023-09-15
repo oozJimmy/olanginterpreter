@@ -1,0 +1,8 @@
+Begin 
+    a = 10;
+    b = 15;
+    f = a+b;
+    status;
+    if(a>b) do b=b+a;
+    status;
+End

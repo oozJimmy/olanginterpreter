@@ -1,0 +1,4 @@
+Begin
+    a = 7;
+    do a = a+3 while(a<100);
+End

@@ -1,0 +1,6 @@
+Begin
+    a=14+8;
+    b=21+3;
+    status;
+    print a,b;
+End
